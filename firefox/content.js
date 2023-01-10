@@ -6,7 +6,7 @@ function generatePassword(length, upper, lower, digits, symbols){
     let uppercaseAllowed = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     let lowercaseAllowed = "abcdefghijklmnopqrstuvwxyz";
     let digitsAllowed = "0123456789"
-    let symbolsAllowed = "!@#$%^&*()+="
+    let symbolsAllowed = "!@#$%^&*"
 
     let toJoin = [];
 
