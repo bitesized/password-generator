@@ -2,3 +2,32 @@ html{
     min-width:300px;
     text-align:center;
 }
+
+#options{
+    height: 50%;
+    width: 60%;
+    margin:auto;
+    font-size: medium;
+}
+
+
+
+.option-divs{
+    background-color: paleturquoise;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.checkboxes{
+    margin-right: auto;
+}
+
+label{
+    text-align: right;
+}
+
+form{
+    text-align: left;
+}
